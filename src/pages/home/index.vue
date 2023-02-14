@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-    <div class="bototm">
+    <div class="bottom">
       <div class="b1">
         <div class="dec">500</div>
         <div class="bg"></div>
