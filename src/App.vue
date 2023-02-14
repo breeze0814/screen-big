@@ -50,13 +50,8 @@ onMounted(() => {
 
 <style scoped>
 .root {
-  min-height: 1080px;
-  min-width: 1920px;
-  width: 100%;
-  height: 100%;
   margin: 0 auto;
   position: relative;
-  overflow: hidden;
   color: #ffffff;
   background-image: url(@/assets/images/bg.png);
   background-size: 100% 100%;
